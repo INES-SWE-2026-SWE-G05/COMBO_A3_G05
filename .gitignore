@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+ai-api/model_metadata.json
+mobile/.eas/
+*.aab
+
