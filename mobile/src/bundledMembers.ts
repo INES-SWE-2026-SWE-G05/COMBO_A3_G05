@@ -29,7 +29,7 @@ export const bundledMembers: Member[] = [
     "evidenceLinks": [
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/issues/4",
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/12",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/4a8f9c1"
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/34fb8fe"
     ],
     "testerFeedback": "Fast and remarkably accurate when matching exact aliases and skills; zero hallucinations on non-team queries. \u2014 Jean Paul (Cooperative Lead)",
     "introductionDraft": "My name is Kawaya Gueylord. I am the Lead Backend & AI Engineer for AgriSoko Pocket. I built the TF-IDF matching engine and dataset fingerprinting pipeline that grounds search results in verified team data."
@@ -60,7 +60,7 @@ export const bundledMembers: Member[] = [
     "evidenceLinks": [
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/issues/5",
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/14",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/7b2e3a9"
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/f0c1698"
     ],
     "testerFeedback": "The bottom navigation is intuitive and the search input feels responsive with immediate validation feedback. \u2014 Nadine U. (Software Engineering Student)",
     "introductionDraft": "My name is Adam Ibrahim Hachim. I am the Mobile Core & Navigation Developer. I designed the responsive mobile interface and tab navigation ensuring smooth usability across varied screen sizes."
@@ -91,8 +91,8 @@ export const bundledMembers: Member[] = [
     "outcomeMetric": "Instantaneous (<5ms) local lookup across cached team records with zero crash rate when completely disconnected",
     "evidenceLinks": [
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/issues/6",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/17",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/9c1f4e2"
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/15",
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/ef4eeda"
     ],
     "testerFeedback": "Offline search worked smoothly during flight mode testing without throwing errors or blank screens. \u2014 Eric M. (Agronomy Extension Officer)",
     "introductionDraft": "My name is Isimbi Huguette Parvine. As Offline Storage Specialist, I implemented the offline directory caching and NetInfo sync mechanisms ensuring the app functions seamlessly without internet."
@@ -123,8 +123,8 @@ export const bundledMembers: Member[] = [
     "outcomeMetric": "100% preservation of previous valid search results during network outages and 0 unhandled promise crashes",
     "evidenceLinks": [
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/issues/7",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/19",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/3e8a7d1"
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/16",
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/08ad600"
     ],
     "testerFeedback": "When I stopped the backend server, the app cleanly notified me and kept my previous result intact with a retry button. \u2014 Dr. K. Gasana (Lecturer)",
     "introductionDraft": "My name is Sebit Umkalsum Karim Mustafa. I am the Resilience & Network Recovery Engineer. I implemented network timeout protection, graceful retries, and state preservation to prevent crashes on unstable connections."
@@ -155,8 +155,8 @@ export const bundledMembers: Member[] = [
     "outcomeMetric": "Zero schema validation errors across all endpoints with strict adherence to the expected API specification",
     "evidenceLinks": [
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/issues/8",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/22",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/5d3b2c8"
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/13",
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/001a37a"
     ],
     "testerFeedback": "API responses are clean and strictly structured; the Swagger docs at /docs made verification effortless. \u2014 Patrick N. (Peer Reviewer)",
     "introductionDraft": "My name is Tuyisingize Dieudonne. I served as the API Integration & Schema Validation Engineer, building the REST endpoints and Pydantic validation layers that securely connect our mobile client to backend services."
@@ -189,8 +189,8 @@ export const bundledMembers: Member[] = [
     "outcomeMetric": "Successful standalone APK installation across Android 12, 13, and 14 physical devices with 11/11 passing automated test suites",
     "evidenceLinks": [
       "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/issues/9",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/25",
-      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/8f1e4a6"
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/pull/17",
+      "https://github.com/INES-SWE-2026-SWE-G05/COMBO_A3_G05/commit/ff7bffc"
     ],
     "testerFeedback": "The APK installed cleanly on my Samsung device and ran without Expo Go. VoiceOver / TalkBack labels are clear. \u2014 Marie Claire (QA Tester)",
     "introductionDraft": "My name is Yaya Gouni Souleyman. I am the QA, Accessibility & Android Build Specialist. I managed the standalone APK build pipeline, accessibility auditing, and automated test suite verification."
