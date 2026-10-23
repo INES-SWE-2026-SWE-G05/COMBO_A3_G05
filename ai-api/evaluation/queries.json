@@ -1,0 +1,84 @@
+{
+  "note": "Approved representative evaluation queries for COMBO_A3_G05 team members and deliberate out-of-domain no-match cases.",
+  "memberQueries": [
+    {
+      "query": "Tell me about Kawaya Gueylord",
+      "expectedMemberId": "kawaya-gueylord"
+    },
+    {
+      "query": "What did Gueylord build?",
+      "expectedMemberId": "kawaya-gueylord"
+    },
+    {
+      "query": "Who built AI Matching Engine & Dataset Indexer?",
+      "expectedMemberId": "kawaya-gueylord"
+    },
+    {
+      "query": "Tell me about Adam Ibrahim Hachim",
+      "expectedMemberId": "adam-ibrahim-hachim"
+    },
+    {
+      "query": "What did Adam build?",
+      "expectedMemberId": "adam-ibrahim-hachim"
+    },
+    {
+      "query": "Who built Mobile UI & Navigation Architecture?",
+      "expectedMemberId": "adam-ibrahim-hachim"
+    },
+    {
+      "query": "Tell me about Isimbi Huguette Parvine",
+      "expectedMemberId": "isimbi-huguette-parvine"
+    },
+    {
+      "query": "What did Huguette build?",
+      "expectedMemberId": "isimbi-huguette-parvine"
+    },
+    {
+      "query": "Who built Offline Cache & Directory Lookup Engine?",
+      "expectedMemberId": "isimbi-huguette-parvine"
+    },
+    {
+      "query": "Tell me about Sebit Umkalsum Karim Mustafa",
+      "expectedMemberId": "sebit-umkalsum-karim-mustafa"
+    },
+    {
+      "query": "What did Sebit build?",
+      "expectedMemberId": "sebit-umkalsum-karim-mustafa"
+    },
+    {
+      "query": "Who built Network Fault Tolerance & Recovery Pipeline?",
+      "expectedMemberId": "sebit-umkalsum-karim-mustafa"
+    },
+    {
+      "query": "Tell me about Tuyisingize Dieudonne",
+      "expectedMemberId": "tuyisingize-dieudonne"
+    },
+    {
+      "query": "What did Dieudonne build?",
+      "expectedMemberId": "tuyisingize-dieudonne"
+    },
+    {
+      "query": "Who built Standardized REST API Endpoints & Contract Enforcement?",
+      "expectedMemberId": "tuyisingize-dieudonne"
+    },
+    {
+      "query": "Tell me about Yaya Gouni Souleyman",
+      "expectedMemberId": "yaya-gouni-souleyman"
+    },
+    {
+      "query": "What did Yaya build?",
+      "expectedMemberId": "yaya-gouni-souleyman"
+    },
+    {
+      "query": "Who built Standalone APK Release & Automated Test Harness?",
+      "expectedMemberId": "yaya-gouni-souleyman"
+    }
+  ],
+  "noMatchQueries": [
+    "What is today's maize price in Kigali?",
+    "How do I reset my account password?",
+    "Where is the nearest agricultural cooperative office?",
+    "Can you predict tomorrow's rainfall in Musanze?",
+    "Who won the football match yesterday?"
+  ]
+}
