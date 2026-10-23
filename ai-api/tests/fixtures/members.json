@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Aline Test", "registrationNumber": "TEST-001", "aliases": ["Ali"],
+    "githubUsername": "aline-test", "role": "Mobile Developer", "skills": ["React Native", "offline caching"],
+    "targetUser": "market visitors", "problem": "unreliable connectivity", "contribution": "implemented cached directory",
+    "feature": "offline mode", "outcomeMetric": "fixture only", "evidenceLinks": ["https://example.com/aline"],
+    "testerFeedback": "fixture only", "introductionDraft": "Aline is the mobile developer in this test fixture."
+  },
+  {
+    "fullName": "Beno Test", "registrationNumber": "TEST-002", "aliases": ["Ben"],
+    "githubUsername": "beno-test", "role": "AI Engineer", "skills": ["Python", "TF-IDF"],
+    "targetUser": "team visitors", "problem": "finding the right contributor", "contribution": "built deterministic matching",
+    "feature": "member search API", "outcomeMetric": "fixture only", "evidenceLinks": ["https://example.com/beno"],
+    "testerFeedback": "fixture only", "introductionDraft": "Beno is the AI engineer in this test fixture."
+  }
+]
+
