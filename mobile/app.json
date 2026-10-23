@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "AgriSoko Pocket G05",
+    "slug": "agrisoko-pocket-g05",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.agrisoko.pocket.g05",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cf8388b4-f950-40fa-b69c-00d3e4de1504"
+      }
+    },
+    "owner": "gueylo"
+  }
+}
